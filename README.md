@@ -9,3 +9,6 @@ Ainda estou no início da caminhada no mundo dos dados então ainda tenho muito 
 
 
 <b>Background</b>: Python, SQL, Dataviz.
+
+# Projetos
+
