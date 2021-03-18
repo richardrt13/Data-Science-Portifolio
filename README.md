@@ -1,5 +1,5 @@
 # Portifolio Data Scientist Richard Tomé
-Cientista de dados junior
+Cientista de dados júnior
 
 Estou em uma constante busca do porquê e por isso tenho sempre uma aba aberta no Google Colab (ou no Jupyter Notebook), onde evoluo de forma constante minha maneira de abordar e extrair o máximo que os dados têm a me oferecer. Via de regra utilizo Pandas, NumPy e Matplotlib, mas não é incomum precisar ir além disso e naturalmente buscar novos conhecimentos para tal.
 
