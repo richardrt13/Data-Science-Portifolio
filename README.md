@@ -12,6 +12,6 @@ Ainda estou no início da caminhada no mundo dos dados então ainda tenho muito 
 
 # Projetos
 
-- <b>Análise exploratória de dados bancários e correlação com Churn:</b> <a href="https://github.com/richardrt13/Data-Science-Portifolio/blob/main/Explora%C3%A7%C3%A3o_de_dados_e_correla%C3%A7%C3%A3o_com_Churn.ipynb">Análise de Dados Bancários</a>
+- <b>Análise exploratória de dados bancários e correlação com Churn:</b> <a href="https://github.com/richardrt13/Data-Science-Portifolio/blob/main/Explora%C3%A7%C3%A3o_de_dados_e_correla%C3%A7%C3%A3o_com_Churn.ipynb" target="_blank">Análise de Dados Bancários</a>
 
 
