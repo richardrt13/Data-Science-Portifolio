@@ -12,3 +12,4 @@ Ainda estou no início da caminhada no mundo dos dados então ainda tenho muito 
 
 # Projetos
 
+- <b>Análise exploratória de dados bancários e correlação com Churn:</b> <a href="bit.ly/3cPMVEV"</a></p> 
