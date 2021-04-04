@@ -5,7 +5,7 @@ Estou em uma constante busca do porquê e por isso tenho sempre uma aba aberta n
 
 Devido às minhas recentes experiências profissionais e acadêmicas, desenvolvi e continuo desenvolvendo minha capacidade analítica, sempre em busca da melhoria de processos, de um insight, um norte e da solução de um problema. 
 
-Ainda estou no início da caminhada no mundo dos dados então ainda tenho muito a aprender (Principalmente sobre Big Data). 
+Como um bom profissional de tecnologia, estou sempre consumindo algum conteúdo novo (principalmente sobre Big Data), sempre é possível melhorar.
 
 
 <b>Background</b>: Python, SQL, Dataviz.
